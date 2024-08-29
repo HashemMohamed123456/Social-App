@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977043310997",
+    "project_id": "hashemtest33",
+    "storage_bucket": "hashemtest33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977043310997:android:daf2174bb88ae6ff4fce9c",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-eA-l4Y0AZGP8mA3lIfalH5ilpg-TVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
